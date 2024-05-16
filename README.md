@@ -26,7 +26,7 @@
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/kozandre)
-[![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=white)]([https://discord.com/kozandre](https://discordapp.com/users/349978058658152454/ ))
+[![Discord](https://img.shields.io/badge/-Discord-333?style=for-the-badge&logo=Discord&logoColor=white)]([https://discord.com/kozandre](https://discordapp.com/users/349978058658152454/ )
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/kozandre)
 
 
